@@ -6,7 +6,7 @@ The classic retro game recreated using `Pygame` and `python`.
 
 Follow the youtube video to see how I fared on ``spaceShooter``
 
-[![Space Shooter Demo - Youtube](http://i.imgur.com/bHjlJfG.jpg)](https://www.youtube.com/watch?v=o99zpLsM-ZI)
+[![Space Shooter Demo - Youtube](http://i.imgur.com/bHjlJfG.jpg)]()
 
 ## Screenshots
 
